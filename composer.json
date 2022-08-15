@@ -1,0 +1,12 @@
+{
+    "name": "andipedia/cekid",
+    "description": "aplikasi cek id",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "muhammad ramdan"
+        }
+    ],
+    "require": {}
+}
